@@ -1,3 +1,0 @@
-class C1() {
-    this.x : NotExist = 4;
-}
